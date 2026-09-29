@@ -6,7 +6,7 @@ This project is a comprehensive CSS customization file (`youtube-override.css`) 
 
 * **Dynamic Glass Design:** Applies translucent backgrounds and background blur (`backdrop-filter: blur`) effects to the search bar, masthead, mini guide, and side panels.
 * **Theme Compatibility:** Provides seamless color transitions in both light mode and dark mode via the `html[dark]` selector.
-* **Modern Layout:** Eliminates YouTube's standard bulky appearance to create floating, aesthetic panels.
+* **Modern Layout:** Eliminates YouTube's standard bulky appearance to create floating, aesthetic panels
 
 ---
 
